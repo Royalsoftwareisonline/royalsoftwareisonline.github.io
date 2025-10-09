@@ -47,7 +47,7 @@
   <source src="Birthday_Hint_Video.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
-<h1>"Only use hints if you NEED them. Start by downloading the video file.</h1>
+<h1>"Only use hints below if you NEED them. Start by downloading the video file.</h1>
 
   <!-- Hints -->
    <div class="hint">
