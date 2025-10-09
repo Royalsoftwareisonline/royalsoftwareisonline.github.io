@@ -39,7 +39,7 @@
   </style>
 </head>
 <body>
-  <h1>"(Ignore the thing above this btw)"</h1>
+  <h1>"(Ignore the thing above this text btw, just scroll down)"</h1>
   <h1>"A spectrogram is a visual representation of the spectrum of frequencies of a signal as it varies with time."</h1>
 
   <!-- Video Player -->
