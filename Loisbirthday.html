@@ -43,7 +43,7 @@
   <h1>"A spectrogram is a visual representation of the spectrum of frequencies of a signal as it varies with time."</h1>
 
   <!-- Video Player -->
-<h1><a href="youtube.com/watch?v=4NwmK1rNk7Y&feature=youtu.be">Click Here For Step 2 Only use hints if you NEED them</a></h1>
+<h1>"Go to: http://bit.ly/4nC8jkd  Use hints only if you NEED them"</h1>
 
   <!-- Hints -->
    <div class="hint">
